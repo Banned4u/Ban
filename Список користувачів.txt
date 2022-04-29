@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<h1 style="text-align: center;"><font color="#ffcccc"><font size="7"><font face="Courier New, Courier, monospace"><font style="background-color:#e6e6fa;">Список користувачів</font></font></font></font></h1>
+<table align="center" border="1" cellpadding="1" cellspacing="1" style="width: 500px">
+	<tbody>
+		<tr>
+			<td>
+				<p><img alt="" src="https://fatuidb.icu/images/upload/kazuha"></p>
+				<p><font style="background-color:#e6e6fa;">Kazuha</font></p>
+				<p><a href="mailto:GorouImpact@gmail.com"><font style="background-color:#e6e6fa;">KazuhaImpact@gmail.com </font></a></p>
+				<p><font style="background-color:#e6e6fa;">Inazuma</font></p>
+				<p><font style="background-color:#e6e6fa;">+3805454354355</font></p>
+				<p><font style="background-color:#e6e6fa;">&nbsp; </font><a href="https://genshin.hoyoverse.com"><font style="background-color:#e6e6fa;">https://genshin.hoyoverse.com</font></a></p>
+			</td>
+			<td>
+				<p><img alt="" src="https://fatuidb.icu/images/upload/xiao"></p>
+				<p><font style="background-color:#e6e6fa;">Xiao</font></p>
+				<p><a href="mailto:GorouImpact@gmail.com"><font style="background-color:#e6e6fa;">XiaoImpact@gmail.com </font></a></p>
+				<p><font style="background-color:#e6e6fa;">LiYue</font></p>
+				<p><font style="background-color:#e6e6fa;">+38045435435435345345</font></p>
+				<p><font style="background-color:#e6e6fa;">&nbsp; </font><a href="https://genshin.hoyoverse.com"><font style="background-color:#e6e6fa;">https://genshin.hoyoverse.com</font></a></p>
+			</td>
+			<td>
+				<p><img alt="" src="https://fatuidb.icu/images/upload/kaeya"></p>
+				<p><font style="background-color:#e6e6fa;">Keya</font></p>
+				<p><a href="mailto:GorouImpact@gmail.com"><font style="background-color:#e6e6fa;">KeyaImpact@gmail.com </font></a></p>
+				<p><font style="background-color:#e6e6fa;">Mondstadt</font></p>
+				<p><font style="background-color:#e6e6fa;">+3809545454355</font></p>
+				<p><font style="background-color:#e6e6fa;">&nbsp; </font><a href="https://genshin.hoyoverse.com"><font style="background-color:#e6e6fa;">https://genshin.hoyoverse.com</font></a></p>
+			</td>
+			<td>
+				<p><img alt="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs_nDNU0jEgAcIAjPMZZUsJOP44UrmnVgIQ8O2Gy5vvq1FcoSIu1BWvBTh_s7nffopEws&amp;usqp=CAU"></p>
+				<p><font style="background-color:#e6e6fa;">Ei</font></p>
+				<p><a href="mailto:GorouImpact@gmail.com"><font style="background-color:#e6e6fa;">EiImpact@gmail.com </font></a></p>
+				<p><font style="background-color:#e6e6fa;">Inazuma</font></p>
+				<p><font style="background-color:#e6e6fa;">+3809954355345435</font></p>
+				<p><font style="background-color:#e6e6fa;">&nbsp; </font><a href="https://genshin.hoyoverse.com"><font style="background-color:#e6e6fa;">https://genshin.hoyoverse.com</font></a></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>&nbsp;</p>
